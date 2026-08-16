@@ -16,7 +16,7 @@ class RunSpeedChanger
 	struct ForDebug
 	{
 	private:
-		bool stopButton = true;
+		bool stopButton = false;
 		int runSpeedBuffer = 10;
 		bool onlyOnce = true;
 	public:

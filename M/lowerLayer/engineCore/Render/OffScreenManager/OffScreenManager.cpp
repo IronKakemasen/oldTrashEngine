@@ -178,7 +178,7 @@ void OffScreenManager::Init(TextureDataManager* textureDataManager_,
 
 
 
-	ChangePostEffection(PostEffectType::kNone);
+	ChangePostEffection(PostEffectType::kBloom);
 }
 
 OffScreen* OffScreenManager::SetEffectSysytem(PostEffectType type_,
