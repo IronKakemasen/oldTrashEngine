@@ -3,7 +3,7 @@
 BlockModel::BlockModel()
 {
 	//モデルの生成(必須)
-	model = M::GetInstance()->CreateModel("./resource/preset/model/sikaku/sikaku.obj");
+	model = M::GetInstance()->CreateModel("./resource/preset/model/Block/Block.obj");
 
 }
 
@@ -28,13 +28,12 @@ void BlockModel::Init(Transform* gameObjectTrans_)
 	auto* appearance = model->GetAppearance(0);
 	//使用するシェーダーの選択
 	appearance->shaderSetIndex =
-		M::GetInstance()->GetShaderSetIndexFromFileName("kadai0vs", "kadai0");
+		M::GetInstance()->GetShaderSetIndexFromFileName("kadai1vs", "kadai1ps");
 
 	appearance->texHandlesContainer[Appearance::kColormap] =
 		M::GetInstance()->GetTexIndex(TextureTag::kKadai);
 	//使用するテクスチャ種類の選択(カラーマップ、ノーマルマップ、...)
 	appearance->SetUsingTextureFromContainer(1, 0, 0, 0);
-	appearance->cullMode = CullMode::kCullModeFront;
 	//ゲームオブジェクトと全モデルのペアレント化
 	MakeAllPartsBeChildren(gameObjectTrans_);
 
