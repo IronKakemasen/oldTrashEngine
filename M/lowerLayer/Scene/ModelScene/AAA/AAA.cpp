@@ -19,9 +19,6 @@ void AAA::Init()
 	c.Initialize(0.75f);
 
 
-	//位置
-	trans.pos.z = 4.0f;
-	trans.pos.y = 3.0f;
 }
 
 void AAA::Reset()

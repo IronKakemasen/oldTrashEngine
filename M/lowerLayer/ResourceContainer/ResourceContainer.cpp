@@ -15,7 +15,8 @@ void ResourceContainer::LoadAllTextureFile()
 	LoadTextureFile(TextureTag::kOh, pathToPresetTex + "oh.png");
 	LoadTextureFile(TextureTag::kCursorImage, pathToPresetTex + "cursorImage.png");
 	LoadTextureFile(TextureTag::kNormalDekoboko, pathToPresetTex + "dekoboko.png");
-	
+	LoadTextureFile(TextureTag::kKadai, pathToPresetTex + "kadai.dds");
+
 	
 }
 

@@ -20,6 +20,7 @@ enum class TextureTag
 	kEnemyBodyN,
 	kEnemyThornN,
 	kAllyN,
+	kKadai,
 
 	// 汎用
 	kNumbers1000x100,		// numbers
