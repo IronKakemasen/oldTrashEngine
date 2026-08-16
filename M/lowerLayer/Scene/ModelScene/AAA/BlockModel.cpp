@@ -3,7 +3,7 @@
 BlockModel::BlockModel()
 {
 	//モデルの生成(必須)
-	model = M::GetInstance()->CreateModel("./resource/preset/model/Plane/Plane.obj");
+	model = M::GetInstance()->CreateModel("./resource/preset/model/sikaku/sikaku.obj");
 
 }
 
@@ -15,6 +15,7 @@ void BlockModel::Update(int mode_, float count_)
 
 void BlockModel::Draw(Matrix4* vpMat_)
 {
+	
 	M::GetInstance()->DrawModel(model.get(), vpMat_);
 }
 
@@ -27,13 +28,13 @@ void BlockModel::Init(Transform* gameObjectTrans_)
 	auto* appearance = model->GetAppearance(0);
 	//使用するシェーダーの選択
 	appearance->shaderSetIndex =
-		M::GetInstance()->GetShaderSetIndexFromFileName("ModelGGX.VS", "ModelGGX.PS");
+		M::GetInstance()->GetShaderSetIndexFromFileName("kadai0vs", "kadai0");
 
 	appearance->texHandlesContainer[Appearance::kColormap] =
-		M::GetInstance()->GetTexIndex(TextureTag::kSouhei);
+		M::GetInstance()->GetTexIndex(TextureTag::kKadai);
 	//使用するテクスチャ種類の選択(カラーマップ、ノーマルマップ、...)
 	appearance->SetUsingTextureFromContainer(1, 0, 0, 0);
-
+	appearance->cullMode = CullMode::kCullModeFront;
 	//ゲームオブジェクトと全モデルのペアレント化
 	MakeAllPartsBeChildren(gameObjectTrans_);
 
@@ -43,8 +44,7 @@ void BlockModel::Init(Transform* gameObjectTrans_)
 	appearance->metalic = 0.85f;
 	appearance->roughness = 0.4f;
 	appearance->color = { 255,255,255,255 };
-	appearance->trans.scale = { 3,3,3};
-	appearance->trans.rotation = { -90,0,0 };
+	appearance->trans.scale = { 1,1,1};
 }
 
 void BlockModel::Reset()
