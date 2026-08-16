@@ -7,7 +7,7 @@ struct AAA :public GameObject
 {
 private:
 	//使用するモデル
-	std::unique_ptr<BlockModel> block1;
+	std::vector<std::unique_ptr<BlockModel>> block1;
 	Counter c;
 
 public:
