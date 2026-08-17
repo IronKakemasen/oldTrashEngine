@@ -1,0 +1,5744 @@
+Use Adapter:NVIDIA GeForce RTX 5050 Laptop GPU
+
+FeatureLevel:12.2
+
+Complete create D3D12Device
+
+Complete create CommandQueue
+
+Complete create SwapChain
+
+Complete create rtvDescriptorHeap
+
+Complete pull Resource
+
+Complete create Allocators
+
+Complete create CommandList
+
+Complete built fence
+
+Complete creat event
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/MobilePrimitive/MobilePrimitiveMesh.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/MobilePrimitive/MobilePrimitiveMesh.VS.hlsl,profile:vs_6_0
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS : Complete create rootSignature
+
+MobilePrimitiveMesh.VS + MobilePrimitiveMesh.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Sprite/Sprite.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Sprite/Sprite.VS.hlsl,profile:vs_6_0
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Sprite.VS + Sprite.PS : Complete create rootSignature
+
+Sprite.VS + Sprite.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Particle2D/TestParticle2D.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Particle2D/TestParticle2D.VS.hlsl,profile:vs_6_0
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+TestParticle2D.VS + TestParticle2D.PS : Complete create rootSignature
+
+TestParticle2D.VS + TestParticle2D.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Line/Line.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Line/Line.VS.hlsl,profile:vs_6_0
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Line.VS + Line.PS : Complete create rootSignature
+
+Line.VS + Line.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/MonoChrome.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/MonoChrome.VS.hlsl,profile:vs_6_0
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+MonoChrome.VS + MonoChrome.PS : Complete create rootSignature
+
+MonoChrome.VS + MonoChrome.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/NoEffection.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/NoEffection.VS.hlsl,profile:vs_6_0
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+NoEffection.VS + NoEffection.PS : Complete create rootSignature
+
+NoEffection.VS + NoEffection.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/SimpleNeonLike.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/SimpleNeonLike.VS.hlsl,profile:vs_6_0
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+SimpleNeonLike.VS + SimpleNeonLike.PS : Complete create rootSignature
+
+SimpleNeonLike.VS + SimpleNeonLike.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/SideBlur.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/SideBlur.VS.hlsl,profile:vs_6_0
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+SideBlur.VS + SideBlur.PS : Complete create rootSignature
+
+SideBlur.VS + SideBlur.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/VerticalBlur.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/VerticalBlur.VS.hlsl,profile:vs_6_0
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+VerticalBlur.VS + VerticalBlur.PS : Complete create rootSignature
+
+VerticalBlur.VS + VerticalBlur.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/GaussianBlur.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/GaussianBlur.VS.hlsl,profile:vs_6_0
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+GaussianBlur.VS + GaussianBlur.PS : Complete create rootSignature
+
+GaussianBlur.VS + GaussianBlur.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/Brightness.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/Brightness.VS.hlsl,profile:vs_6_0
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Brightness.VS + Brightness.PS : Complete create rootSignature
+
+Brightness.VS + Brightness.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/Bloom.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/Bloom.VS.hlsl,profile:vs_6_0
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Bloom.VS + Bloom.PS : Complete create rootSignature
+
+Bloom.VS + Bloom.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/DepthOfView.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/PostEffect/DepthOfView.VS.hlsl,profile:vs_6_0
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+DepthOfView.VS + DepthOfView.PS : Complete create rootSignature
+
+DepthOfView.VS + DepthOfView.PS _graghicsPipelineState
+
+Complete : LoadTexture
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/SampleMS/SampleMeshShader.hlsl,profile:ms_6_5
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/SampleMS/Sample.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/SampleMS/Model.MS.hlsl,profile:ms_6_5
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/SampleMS/Model.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelNoLight.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelNoLight.VS.hlsl,profile:vs_6_0
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+ModelNoLight.VS + ModelNoLight.PS : Complete create rootSignature
+
+ModelNoLight.VS + ModelNoLight.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelSimple.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelSimple.VS.hlsl,profile:vs_6_0
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+ModelSimple.VS + ModelSimple.PS : Complete create rootSignature
+
+ModelSimple.VS + ModelSimple.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelPhong.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelPhong.VS.hlsl,profile:vs_6_0
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+ModelPhong.VS + ModelPhong.PS : Complete create rootSignature
+
+ModelPhong.VS + ModelPhong.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelNormalizedPhong.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelNormalizedPhong.VS.hlsl,profile:vs_6_0
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS : Complete create rootSignature
+
+ModelNormalizedPhong.VS + ModelNormalizedPhong.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelBump.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelBump.VS.hlsl,profile:vs_6_0
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+ModelBump.VS + ModelBump.PS : Complete create rootSignature
+
+ModelBump.VS + ModelBump.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelCookTorrance.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelCookTorrance.VS.hlsl,profile:vs_6_0
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+ModelCookTorrance.VS + ModelCookTorrance.PS : Complete create rootSignature
+
+ModelCookTorrance.VS + ModelCookTorrance.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelGGX.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/ModelGGX.VS.hlsl,profile:vs_6_0
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+ModelGGX.VS + ModelGGX.PS : Complete create rootSignature
+
+ModelGGX.VS + ModelGGX.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/kadai0.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/kadai0vs.hlsl,profile:vs_6_0
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+kadai0vs + kadai0 : Complete create rootSignature
+
+kadai0vs + kadai0 _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/kadai1ps.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/Model/kadai1vs.hlsl,profile:vs_6_0
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+kadai1vs + kadai1ps : Complete create rootSignature
+
+kadai1vs + kadai1ps _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/ShaderToy/tft3RH.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/ShaderToy/tft3RH.VS.hlsl,profile:vs_6_0
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+tft3RH.VS + tft3RH.PS : Complete create rootSignature
+
+tft3RH.VS + tft3RH.PS _graghicsPipelineState
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/ShaderToy/Mt2SzR.PS.hlsl,profile:ps_6_0
+
+Complete load shader
+
+Complete compile
+
+Compile Succeeded,path:./resource/preset/shader/ShaderToy/Mt2SzR.VS.hlsl,profile:vs_6_0
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+Mt2SzR.VS + Mt2SzR.PS : Complete create rootSignature
+
+Mt2SzR.VS + Mt2SzR.PS _graghicsPipelineState
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+
+
+
+Current commandList ptr (WinApp) = 000001FCE768F040
+
+
+DrawModel: shaderSetIndex=21 curRenderTargetStatus=0
+
+Pipeline commandList ptr (DrawModel) = 000001FCE768F040
+

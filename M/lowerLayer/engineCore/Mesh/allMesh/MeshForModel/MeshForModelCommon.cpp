@@ -178,6 +178,7 @@ void MeshAndDataCommon::CreatePSO(AllPipelineSet* allPipelineset_)
 	//ModelGGX
 	allPipelineset_->CreateNewPipeline(folderPath, "ModelGGX.VS", "ModelGGX.PS", dofInput, modelGGX);
 	allPipelineset_->CreateNewPipeline(folderPath, "kadai0vs", "kadai0", dofInput, modelGGX);
+	allPipelineset_->CreateNewPipeline(folderPath, "kadai1vs", "kadai1ps", dofInput, modelGGX);
 
 	PipelineSet::numRenderTaget = 1;
 
