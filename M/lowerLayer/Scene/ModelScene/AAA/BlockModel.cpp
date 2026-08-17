@@ -3,7 +3,7 @@
 BlockModel::BlockModel()
 {
 	//モデルの生成(必須)
-	model = M::GetInstance()->CreateModel("./resource/preset/model/sikaku/sikaku.obj");
+	model = M::GetInstance()->CreateModel("./resource/preset/model/ring/ring.obj");
 
 }
 
@@ -28,15 +28,17 @@ void BlockModel::Init(Transform* gameObjectTrans_)
 	auto* appearance = model->GetAppearance(0);
 	//使用するシェーダーの選択
 	appearance->shaderSetIndex =
-		M::GetInstance()->GetShaderSetIndexFromFileName("kadai0vs", "kadai0");
+		M::GetInstance()->GetShaderSetIndexFromFileName("ModelGGX.VS", "ModelGGX.PS");
 
 	appearance->texHandlesContainer[Appearance::kColormap] =
-		M::GetInstance()->GetTexIndex(TextureTag::kKadai);
+		M::GetInstance()->GetTexIndex(TextureTag::kSouhei);
 	//使用するテクスチャ種類の選択(カラーマップ、ノーマルマップ、...)
 	appearance->SetUsingTextureFromContainer(1, 0, 0, 0);
-	appearance->cullMode = CullMode::kCullModeFront;
 	//ゲームオブジェクトと全モデルのペアレント化
 	MakeAllPartsBeChildren(gameObjectTrans_);
+	appearance->blendMode = BlendMode::kBlendModeAdd;
+	appearance->uvTrans.scale.x = -1.0f;
+	appearance->uvTrans.scale.y = -1.0f;
 
 	//↑↑↑↑↑必須↑↑↑↑↑
 
