@@ -44,7 +44,7 @@ void BlockModel::Init(Transform* gameObjectTrans_)
 	appearance->metalic = 0.85f;
 	appearance->roughness = 0.4f;
 	appearance->color = { 255,255,255,255 };
-	appearance->trans.scale = { 1,1,1};
+	appearance->trans.scale = { 100,100,100};
 }
 
 void BlockModel::Reset()
