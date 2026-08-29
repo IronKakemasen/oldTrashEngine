@@ -179,6 +179,7 @@
     <ClCompile Include="external\MeshOptimizer\vertexfilter.cpp" />
     <ClCompile Include="external\MeshOptimizer\vfetchoptimizer.cpp" />
     <ClCompile Include="M\lowerLayer\engineCore\Buffer\StructuredBuffer\UniqueverdexIndexSBuffer\UniqueverdexIndexSBuffer.cpp" />
+    <ClCompile Include="M\lowerLayer\Scene\ModelScene\LevelLoader.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="M\lowerLayer\Scene\SceneController\AxisModel\AxisModel.h" />
@@ -356,6 +357,7 @@
     <ClInclude Include="M\lowerLayer\engineCore\Mesh\meshStructure\ModelData\ResMeshlet.h" />
     <ClInclude Include="external\MeshOptimizer\meshoptimizer.h" />
     <ClInclude Include="M\lowerLayer\engineCore\Buffer\StructuredBuffer\UniqueverdexIndexSBuffer\UniqueverdexIndexSBuffer.h" />
+    <ClInclude Include="M\lowerLayer\Scene\ModelScene\LevelLoader.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="external\imgui\imgui.vcxproj" />

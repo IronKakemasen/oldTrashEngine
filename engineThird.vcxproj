@@ -161,6 +161,7 @@
     <ClCompile Include="external\MeshOptimizer\vertexcodec.cpp" />
     <ClCompile Include="external\MeshOptimizer\vertexfilter.cpp" />
     <ClCompile Include="external\MeshOptimizer\vfetchoptimizer.cpp" />
+    <ClCompile Include="M\lowerLayer\Scene\ModelScene\LevelLoader.cpp" />
     <ClCompile Include="M\lowerLayer\engineCore\Buffer\StructuredBuffer\IndexStructuredBuffer\IndexStructuredBuffer.cpp" />
     <ClCompile Include="M\lowerLayer\engineCore\Buffer\constantBuffer\CameraViewMat\CameraViewMat.cpp" />
     <ClCompile Include="M\lowerLayer\engineCore\Buffer\constantBuffer\GaussianBlurBuffer\GaussianBlurBuffer.cpp" />
@@ -333,6 +334,7 @@
     <ClInclude Include="external\d3dx12\d3dx12_root_signature.h" />
     <ClInclude Include="external\d3dx12\d3dx12_state_object.h" />
     <ClInclude Include="external\MeshOptimizer\meshoptimizer.h" />
+    <ClInclude Include="M\lowerLayer\Scene\ModelScene\LevelLoader.h" />
     <ClInclude Include="M\lowerLayer\engineCore\Buffer\StructuredBuffer\IndexStructuredBuffer\IndexStructuredBuffer.h" />
     <ClInclude Include="M\lowerLayer\engineCore\Buffer\constantBuffer\CameraViewMat\CameraViewMat.h" />
     <ClInclude Include="M\lowerLayer\engineCore\Buffer\constantBuffer\GaussianBlurBuffer\GaussianBlurBuffer.h" />

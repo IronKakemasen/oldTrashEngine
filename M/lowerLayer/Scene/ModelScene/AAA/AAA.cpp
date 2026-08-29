@@ -1,4 +1,5 @@
 #include "AAA.h"
+#include "../LevelLoader.h"
 
 //コリジョンバックテーブルを設定
 void AAA::SetCollisionBackTable()
@@ -9,17 +10,22 @@ void AAA::SetCollisionBackTable()
 
 void AAA::Update()
 {
-	block1->model->GetAppearance(0)->uvTrans.rotate += 1.0f;
 
 }
 
 void AAA::Init()
 {
+	auto const sceneData = LevelLoader::Load("./resource/preset/levels/modelScene.json");
+
 	//モデルの初期化
 	block1->Init(&trans);
 	c.Initialize(0.75f);
 
+	trans.pos = sceneData.allObj[0].pos;
+	trans.scale = sceneData.allObj[0].scale;
+	trans.rotation = sceneData.allObj[0].rotation;
 
+	colliderType = sceneData.allObj[0].colliderType;
 }
 
 void AAA::Reset()

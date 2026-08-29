@@ -1,9 +1,11 @@
 #include "BlockModel.h"
+#include "../LevelLoader.h"
 
 BlockModel::BlockModel()
 {
+	auto const sceneData = LevelLoader::Load("./resource/preset/levels/modelScene.json");
 	//モデルの生成(必須)
-	model = M::GetInstance()->CreateModel("./resource/preset/model/ring/ring.obj");
+	model = M::GetInstance()->CreateModel("./resource/preset/model/" + sceneData.allObj[0].objName +"/" + sceneData.allObj[0].filePath);
 
 }
 
@@ -31,7 +33,7 @@ void BlockModel::Init(Transform* gameObjectTrans_)
 		M::GetInstance()->GetShaderSetIndexFromFileName("ModelGGX.VS", "ModelGGX.PS");
 
 	appearance->texHandlesContainer[Appearance::kColormap] =
-		M::GetInstance()->GetTexIndex(TextureTag::kSouhei);
+		M::GetInstance()->GetTexIndex(TextureTag::kWhite2x2);
 	//使用するテクスチャ種類の選択(カラーマップ、ノーマルマップ、...)
 	appearance->SetUsingTextureFromContainer(1, 0, 0, 0);
 	//ゲームオブジェクトと全モデルのペアレント化

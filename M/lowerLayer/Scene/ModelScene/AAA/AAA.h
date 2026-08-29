@@ -3,12 +3,14 @@
 #include "GameObjectBehavior.h"
 #include "BlockModel.h"
 
+
 struct AAA :public GameObject
 {
 private:
 	//使用するモデル
 	std::unique_ptr<BlockModel> block1;
 	Counter c;
+	std::string colliderType;
 
 public:
 	//↓ゲームオブジェクトマネージャーに登録すれば呼び出す必要なし↓
